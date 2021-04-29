@@ -1,0 +1,279 @@
+INFO:root:Number of parameters: 1733466
+INFO:root:000: Acc-tr:  38.41, Acc-val:  39.55, L-tr: 1.6940, L-val: 1.8065
+INFO:root:001: Acc-tr:  58.81, Acc-val:  59.78, L-tr: 1.1454, L-val: 1.1483
+INFO:root:002: Acc-tr:  66.97, Acc-val:  62.54, L-tr: 0.9205, L-val: 1.0832
+INFO:root:003: Acc-tr:  72.28, Acc-val:  69.76, L-tr: 0.7902, L-val: 0.8655
+INFO:root:004: Acc-tr:  75.63, Acc-val:  71.41, L-tr: 0.6900, L-val: 0.8287
+INFO:root:005: Acc-tr:  78.18, Acc-val:  71.85, L-tr: 0.6154, L-val: 0.8385
+INFO:root:006: Acc-tr:  80.00, Acc-val:  73.37, L-tr: 0.5659, L-val: 0.7782
+INFO:root:007: Acc-tr:  82.11, Acc-val:  72.50, L-tr: 0.5094, L-val: 0.8329
+INFO:root:008: Acc-tr:  83.48, Acc-val:  75.57, L-tr: 0.4727, L-val: 0.7556
+INFO:root:009: Acc-tr:  84.86, Acc-val:  78.05, L-tr: 0.4279, L-val: 0.6410
+INFO:root:010: Acc-tr:  86.21, Acc-val:  79.39, L-tr: 0.3947, L-val: 0.6124
+INFO:root:011: Acc-tr:  87.43, Acc-val:  76.18, L-tr: 0.3554, L-val: 0.7393
+INFO:root:012: Acc-tr:  88.32, Acc-val:  70.65, L-tr: 0.3295, L-val: 0.9790
+INFO:root:013: Acc-tr:  88.75, Acc-val:  77.19, L-tr: 0.3177, L-val: 0.7281
+INFO:root:014: Acc-tr:  89.92, Acc-val:  76.45, L-tr: 0.2838, L-val: 0.7731
+INFO:root:015: Acc-tr:  90.80, Acc-val:  77.83, L-tr: 0.2612, L-val: 0.7980
+INFO:root:016: Acc-tr:  91.03, Acc-val:  80.88, L-tr: 0.2505, L-val: 0.6217
+INFO:root:017: Acc-tr:  92.23, Acc-val:  77.59, L-tr: 0.2223, L-val: 0.7834
+INFO:root:018: Acc-tr:  92.53, Acc-val:  79.84, L-tr: 0.2101, L-val: 0.7142
+INFO:root:019: Acc-tr:  92.94, Acc-val:  79.88, L-tr: 0.2006, L-val: 0.6724
+INFO:root:020: Acc-tr:  93.25, Acc-val:  78.00, L-tr: 0.1904, L-val: 0.8058
+INFO:root:021: Acc-tr:  93.42, Acc-val:  79.36, L-tr: 0.1847, L-val: 0.8412
+INFO:root:022: Acc-tr:  94.22, Acc-val:  80.67, L-tr: 0.1659, L-val: 0.6975
+INFO:root:023: Acc-tr:  94.57, Acc-val:  80.67, L-tr: 0.1564, L-val: 0.6977
+INFO:root:024: Acc-tr:  94.54, Acc-val:  80.26, L-tr: 0.1581, L-val: 0.7597
+INFO:root:025: Acc-tr:  94.82, Acc-val:  81.01, L-tr: 0.1469, L-val: 0.7313
+INFO:root:026: Acc-tr:  95.21, Acc-val:  81.62, L-tr: 0.1378, L-val: 0.7606
+INFO:root:027: Acc-tr:  95.08, Acc-val:  79.01, L-tr: 0.1390, L-val: 0.7915
+INFO:root:028: Acc-tr:  95.22, Acc-val:  82.34, L-tr: 0.1356, L-val: 0.6549
+INFO:root:029: Acc-tr:  95.72, Acc-val:  79.33, L-tr: 0.1239, L-val: 0.7832
+INFO:root:030: Acc-tr:  95.62, Acc-val:  79.87, L-tr: 0.1249, L-val: 0.8230
+INFO:root:031: Acc-tr:  95.73, Acc-val:  81.26, L-tr: 0.1218, L-val: 0.7644
+INFO:root:032: Acc-tr:  95.88, Acc-val:  80.48, L-tr: 0.1180, L-val: 0.8183
+INFO:root:033: Acc-tr:  96.10, Acc-val:  82.83, L-tr: 0.1143, L-val: 0.6208
+INFO:root:034: Acc-tr:  96.19, Acc-val:  80.99, L-tr: 0.1110, L-val: 0.7190
+INFO:root:035: Acc-tr:  96.06, Acc-val:  80.14, L-tr: 0.1126, L-val: 0.7909
+INFO:root:036: Acc-tr:  96.26, Acc-val:  81.36, L-tr: 0.1092, L-val: 0.7047
+INFO:root:037: Acc-tr:  96.29, Acc-val:  81.09, L-tr: 0.1067, L-val: 0.7318
+INFO:root:038: Acc-tr:  96.47, Acc-val:  80.51, L-tr: 0.1034, L-val: 0.8051
+INFO:root:039: Acc-tr:  96.35, Acc-val:  80.61, L-tr: 0.1028, L-val: 0.7615
+INFO:root:040: Acc-tr:  96.57, Acc-val:  81.17, L-tr: 0.1004, L-val: 0.7423
+INFO:root:041: Acc-tr:  96.53, Acc-val:  79.09, L-tr: 0.1006, L-val: 0.8842
+INFO:root:042: Acc-tr:  96.62, Acc-val:  81.97, L-tr: 0.0973, L-val: 0.7283
+INFO:root:043: Acc-tr:  96.75, Acc-val:  75.38, L-tr: 0.0939, L-val: 0.9994
+INFO:root:044: Acc-tr:  96.89, Acc-val:  82.42, L-tr: 0.0905, L-val: 0.7069
+INFO:root:045: Acc-tr:  96.86, Acc-val:  82.94, L-tr: 0.0919, L-val: 0.6581
+INFO:root:046: Acc-tr:  96.98, Acc-val:  81.97, L-tr: 0.0880, L-val: 0.7076
+INFO:root:047: Acc-tr:  96.92, Acc-val:  80.92, L-tr: 0.0895, L-val: 0.7858
+INFO:root:048: Acc-tr:  96.99, Acc-val:  81.81, L-tr: 0.0878, L-val: 0.7173
+INFO:root:049: Acc-tr:  97.03, Acc-val:  81.53, L-tr: 0.0859, L-val: 0.7403
+INFO:root:050: Acc-tr:  97.17, Acc-val:  83.09, L-tr: 0.0806, L-val: 0.6928
+INFO:root:051: Acc-tr:  97.18, Acc-val:  83.46, L-tr: 0.0830, L-val: 0.7081
+INFO:root:052: Acc-tr:  96.98, Acc-val:  80.73, L-tr: 0.0869, L-val: 0.7452
+INFO:root:053: Acc-tr:  97.21, Acc-val:  81.22, L-tr: 0.0790, L-val: 0.7409
+INFO:root:054: Acc-tr:  96.89, Acc-val:  81.05, L-tr: 0.0877, L-val: 0.8099
+INFO:root:055: Acc-tr:  97.08, Acc-val:  83.13, L-tr: 0.0832, L-val: 0.6745
+INFO:root:056: Acc-tr:  97.22, Acc-val:  81.26, L-tr: 0.0791, L-val: 0.8552
+INFO:root:057: Acc-tr:  97.19, Acc-val:  82.27, L-tr: 0.0820, L-val: 0.7289
+INFO:root:058: Acc-tr:  97.20, Acc-val:  81.41, L-tr: 0.0810, L-val: 0.7607
+INFO:root:059: Acc-tr:  97.38, Acc-val:  82.47, L-tr: 0.0782, L-val: 0.7261
+INFO:root:060: Acc-tr:  97.48, Acc-val:  82.21, L-tr: 0.0733, L-val: 0.7735
+INFO:root:061: Acc-tr:  97.35, Acc-val:  82.06, L-tr: 0.0740, L-val: 0.7283
+INFO:root:062: Acc-tr:  97.48, Acc-val:  83.00, L-tr: 0.0734, L-val: 0.7311
+INFO:root:063: Acc-tr:  97.40, Acc-val:  80.53, L-tr: 0.0757, L-val: 0.8494
+INFO:root:064: Acc-tr:  97.43, Acc-val:  82.42, L-tr: 0.0755, L-val: 0.7056
+INFO:root:065: Acc-tr:  97.49, Acc-val:  82.96, L-tr: 0.0728, L-val: 0.7123
+INFO:root:066: Acc-tr:  97.35, Acc-val:  81.13, L-tr: 0.0749, L-val: 0.7725
+INFO:root:067: Acc-tr:  97.41, Acc-val:  82.21, L-tr: 0.0757, L-val: 0.7931
+INFO:root:068: Acc-tr:  97.44, Acc-val:  81.33, L-tr: 0.0732, L-val: 0.7610
+INFO:root:069: Acc-tr:  97.52, Acc-val:  82.75, L-tr: 0.0735, L-val: 0.6978
+INFO:root:070: Acc-tr:  97.63, Acc-val:  80.68, L-tr: 0.0682, L-val: 0.8224
+INFO:root:071: Acc-tr:  97.34, Acc-val:  81.76, L-tr: 0.0753, L-val: 0.7256
+INFO:root:072: Acc-tr:  97.47, Acc-val:  83.51, L-tr: 0.0719, L-val: 0.6823
+INFO:root:073: Acc-tr:  97.69, Acc-val:  82.33, L-tr: 0.0665, L-val: 0.7045
+INFO:root:074: Acc-tr:  97.69, Acc-val:  83.33, L-tr: 0.0684, L-val: 0.6736
+INFO:root:075: Acc-tr:  97.73, Acc-val:  81.53, L-tr: 0.0669, L-val: 0.7782
+INFO:root:076: Acc-tr:  97.41, Acc-val:  82.32, L-tr: 0.0747, L-val: 0.7216
+INFO:root:077: Acc-tr:  97.39, Acc-val:  82.47, L-tr: 0.0744, L-val: 0.7033
+INFO:root:078: Acc-tr:  97.67, Acc-val:  82.14, L-tr: 0.0674, L-val: 0.7759
+INFO:root:079: Acc-tr:  97.67, Acc-val:  81.45, L-tr: 0.0686, L-val: 0.7600
+INFO:root:080: Acc-tr:  97.50, Acc-val:  80.54, L-tr: 0.0730, L-val: 0.8427
+INFO:root:081: Acc-tr:  97.76, Acc-val:  82.53, L-tr: 0.0647, L-val: 0.7183
+INFO:root:082: Acc-tr:  97.76, Acc-val:  81.06, L-tr: 0.0662, L-val: 0.8979
+INFO:root:083: Acc-tr:  97.69, Acc-val:  79.73, L-tr: 0.0669, L-val: 0.9464
+INFO:root:084: Acc-tr:  97.62, Acc-val:  82.26, L-tr: 0.0692, L-val: 0.7629
+INFO:root:085: Acc-tr:  97.87, Acc-val:  82.89, L-tr: 0.0632, L-val: 0.7007
+INFO:root:086: Acc-tr:  97.73, Acc-val:  83.09, L-tr: 0.0662, L-val: 0.6562
+INFO:root:087: Acc-tr:  97.66, Acc-val:  80.81, L-tr: 0.0678, L-val: 0.8223
+INFO:root:088: Acc-tr:  97.84, Acc-val:  78.00, L-tr: 0.0629, L-val: 1.0433
+INFO:root:089: Acc-tr:  97.76, Acc-val:  81.38, L-tr: 0.0646, L-val: 0.7521
+INFO:root:090: Acc-tr:  97.74, Acc-val:  80.71, L-tr: 0.0659, L-val: 0.8614
+INFO:root:091: Acc-tr:  97.79, Acc-val:  82.48, L-tr: 0.0659, L-val: 0.7464
+INFO:root:092: Acc-tr:  97.89, Acc-val:  82.53, L-tr: 0.0628, L-val: 0.7015
+INFO:root:093: Acc-tr:  97.71, Acc-val:  82.70, L-tr: 0.0661, L-val: 0.6888
+INFO:root:094: Acc-tr:  97.76, Acc-val:  82.56, L-tr: 0.0648, L-val: 0.7688
+INFO:root:095: Acc-tr:  97.83, Acc-val:  82.32, L-tr: 0.0626, L-val: 0.7689
+INFO:root:096: Acc-tr:  97.71, Acc-val:  81.68, L-tr: 0.0668, L-val: 0.7975
+INFO:root:097: Acc-tr:  97.92, Acc-val:  82.66, L-tr: 0.0604, L-val: 0.7643
+INFO:root:098: Acc-tr:  97.95, Acc-val:  83.64, L-tr: 0.0608, L-val: 0.6781
+INFO:root:099: Acc-tr:  97.78, Acc-val:  81.50, L-tr: 0.0636, L-val: 0.7628
+INFO:root:100: Acc-tr:  97.96, Acc-val:  81.05, L-tr: 0.0608, L-val: 0.8225
+INFO:root:101: Acc-tr:  97.76, Acc-val:  83.38, L-tr: 0.0628, L-val: 0.6698
+INFO:root:102: Acc-tr:  97.90, Acc-val:  80.39, L-tr: 0.0614, L-val: 0.9335
+INFO:root:103: Acc-tr:  97.89, Acc-val:  81.95, L-tr: 0.0626, L-val: 0.7718
+INFO:root:104: Acc-tr:  97.86, Acc-val:  82.95, L-tr: 0.0618, L-val: 0.7352
+INFO:root:105: Acc-tr:  97.89, Acc-val:  82.73, L-tr: 0.0616, L-val: 0.7155
+INFO:root:106: Acc-tr:  97.79, Acc-val:  79.88, L-tr: 0.0636, L-val: 0.9664
+INFO:root:107: Acc-tr:  97.91, Acc-val:  82.81, L-tr: 0.0609, L-val: 0.7375
+INFO:root:108: Acc-tr:  97.94, Acc-val:  82.23, L-tr: 0.0610, L-val: 0.7293
+INFO:root:109: Acc-tr:  97.79, Acc-val:  82.12, L-tr: 0.0632, L-val: 0.7917
+INFO:root:110: Acc-tr:  97.83, Acc-val:  83.27, L-tr: 0.0630, L-val: 0.7272
+INFO:root:111: Acc-tr:  97.84, Acc-val:  82.77, L-tr: 0.0610, L-val: 0.7170
+INFO:root:112: Acc-tr:  97.78, Acc-val:  82.84, L-tr: 0.0648, L-val: 0.6904
+INFO:root:113: Acc-tr:  97.92, Acc-val:  80.42, L-tr: 0.0599, L-val: 0.7949
+INFO:root:114: Acc-tr:  97.72, Acc-val:  82.48, L-tr: 0.0665, L-val: 0.7018
+INFO:root:115: Acc-tr:  97.99, Acc-val:  82.64, L-tr: 0.0596, L-val: 0.6610
+INFO:root:116: Acc-tr:  98.02, Acc-val:  82.43, L-tr: 0.0586, L-val: 0.7129
+INFO:root:117: Acc-tr:  97.99, Acc-val:  82.82, L-tr: 0.0609, L-val: 0.6755
+INFO:root:118: Acc-tr:  98.08, Acc-val:  83.94, L-tr: 0.0568, L-val: 0.6469
+INFO:root:119: Acc-tr:  98.05, Acc-val:  81.19, L-tr: 0.0572, L-val: 0.8479
+INFO:root:120: Acc-tr:  97.76, Acc-val:  82.30, L-tr: 0.0649, L-val: 0.7215
+INFO:root:121: Acc-tr:  98.00, Acc-val:  82.10, L-tr: 0.0583, L-val: 0.7668
+INFO:root:122: Acc-tr:  97.95, Acc-val:  81.69, L-tr: 0.0589, L-val: 0.8189
+INFO:root:123: Acc-tr:  97.96, Acc-val:  81.92, L-tr: 0.0617, L-val: 0.7764
+INFO:root:124: Acc-tr:  97.95, Acc-val:  82.81, L-tr: 0.0596, L-val: 0.7090
+INFO:root:125: Acc-tr:  97.93, Acc-val:  82.43, L-tr: 0.0594, L-val: 0.7624
+INFO:root:126: Acc-tr:  98.08, Acc-val:  81.74, L-tr: 0.0564, L-val: 0.7767
+INFO:root:127: Acc-tr:  98.00, Acc-val:  82.43, L-tr: 0.0589, L-val: 0.6864
+INFO:root:128: Acc-tr:  98.06, Acc-val:  78.99, L-tr: 0.0569, L-val: 0.9044
+INFO:root:129: Acc-tr:  97.99, Acc-val:  79.85, L-tr: 0.0585, L-val: 0.8929
+INFO:root:130: Acc-tr:  97.98, Acc-val:  81.82, L-tr: 0.0578, L-val: 0.7567
+INFO:root:131: Acc-tr:  97.85, Acc-val:  81.47, L-tr: 0.0612, L-val: 0.7702
+INFO:root:132: Acc-tr:  97.92, Acc-val:  81.55, L-tr: 0.0580, L-val: 0.7958
+INFO:root:133: Acc-tr:  98.02, Acc-val:  79.07, L-tr: 0.0580, L-val: 0.9136
+INFO:root:134: Acc-tr:  97.84, Acc-val:  82.98, L-tr: 0.0634, L-val: 0.6835
+INFO:root:135: Acc-tr:  98.09, Acc-val:  81.22, L-tr: 0.0540, L-val: 0.8359
+INFO:root:136: Acc-tr:  97.97, Acc-val:  82.24, L-tr: 0.0588, L-val: 0.7675
+INFO:root:137: Acc-tr:  98.06, Acc-val:  79.79, L-tr: 0.0570, L-val: 0.8848
+INFO:root:138: Acc-tr:  97.98, Acc-val:  82.49, L-tr: 0.0585, L-val: 0.7083
+INFO:root:139: Acc-tr:  97.82, Acc-val:  80.37, L-tr: 0.0629, L-val: 0.9029
+INFO:root:140: Acc-tr:  98.13, Acc-val:  82.97, L-tr: 0.0551, L-val: 0.7032
+INFO:root:141: Acc-tr:  98.06, Acc-val:  80.58, L-tr: 0.0564, L-val: 0.8065
+INFO:root:142: Acc-tr:  98.10, Acc-val:  81.98, L-tr: 0.0562, L-val: 0.8040
+INFO:root:143: Acc-tr:  98.11, Acc-val:  82.72, L-tr: 0.0540, L-val: 0.6919
+INFO:root:144: Acc-tr:  98.10, Acc-val:  81.47, L-tr: 0.0553, L-val: 0.7418
+INFO:root:145: Acc-tr:  98.11, Acc-val:  81.71, L-tr: 0.0543, L-val: 0.7898
+INFO:root:146: Acc-tr:  97.91, Acc-val:  81.41, L-tr: 0.0605, L-val: 0.8513
+INFO:root:147: Acc-tr:  97.88, Acc-val:  81.36, L-tr: 0.0626, L-val: 0.7791
+INFO:root:148: Acc-tr:  98.08, Acc-val:  77.73, L-tr: 0.0564, L-val: 1.0194
+INFO:root:149: Acc-tr:  98.13, Acc-val:  81.09, L-tr: 0.0559, L-val: 0.7726
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Humor Sans' (Humor-Sans.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Italic.ttf) italic normal 400 condensed>) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Regular.ttf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-BoldItalic.ttf) italic normal 700 condensed>) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Bold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.7/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Humor Sans' (Humor-Sans.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Italic.ttf) italic normal 400 condensed>) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Regular.ttf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-BoldItalic.ttf) italic normal 700 condensed>) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Bold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.7/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+INFO:root:000: Acc-tr:  98.04, Acc-val:  80.91, L-tr: 0.0567, L-val: 0.8570
+INFO:root:001: Acc-tr:  98.07, Acc-val:  81.96, L-tr: 0.0552, L-val: 0.7849
+INFO:root:002: Acc-tr:  98.05, Acc-val:  83.89, L-tr: 0.0554, L-val: 0.6657
+INFO:root:003: Acc-tr:  98.07, Acc-val:  79.84, L-tr: 0.0570, L-val: 0.9894
+INFO:root:004: Acc-tr:  98.13, Acc-val:  83.10, L-tr: 0.0567, L-val: 0.6633
+INFO:root:005: Acc-tr:  98.25, Acc-val:  81.64, L-tr: 0.0520, L-val: 0.8377
+INFO:root:006: Acc-tr:  98.08, Acc-val:  81.26, L-tr: 0.0559, L-val: 0.8452
+INFO:root:007: Acc-tr:  98.24, Acc-val:  82.33, L-tr: 0.0506, L-val: 0.7260
+INFO:root:008: Acc-tr:  98.13, Acc-val:  82.12, L-tr: 0.0528, L-val: 0.7760
+INFO:root:009: Acc-tr:  98.18, Acc-val:  81.67, L-tr: 0.0525, L-val: 0.7766
+INFO:root:010: Acc-tr:  98.29, Acc-val:  81.91, L-tr: 0.0524, L-val: 0.7599
+INFO:root:011: Acc-tr:  98.16, Acc-val:  81.57, L-tr: 0.0521, L-val: 0.8242
+INFO:root:012: Acc-tr:  98.12, Acc-val:  80.97, L-tr: 0.0548, L-val: 0.8051
+INFO:root:013: Acc-tr:  98.04, Acc-val:  81.56, L-tr: 0.0568, L-val: 0.8120

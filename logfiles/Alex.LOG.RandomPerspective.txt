@@ -1,0 +1,600 @@
+000: Acc-tr:  23.18, Acc-val:  36.78, L-tr: 2.0338, L-val: 1.7257
+000: Acc-tr:  23.18, Acc-val:  36.78, L-tr: 2.0338, L-val: 1.7257
+Epoch 0 Finished.  Time per Epoch:  22.76 s 
+001: Acc-tr:  41.39, Acc-val:  44.98, L-tr: 1.5977, L-val: 1.4765
+001: Acc-tr:  41.39, Acc-val:  44.98, L-tr: 1.5977, L-val: 1.4765
+Epoch 1 Finished.  Time per Epoch:  22.80 s 
+002: Acc-tr:  49.51, Acc-val:  52.23, L-tr: 1.3937, L-val: 1.3440
+002: Acc-tr:  49.51, Acc-val:  52.23, L-tr: 1.3937, L-val: 1.3440
+Epoch 2 Finished.  Time per Epoch:  22.74 s 
+003: Acc-tr:  52.13, Acc-val:  54.96, L-tr: 1.3421, L-val: 1.2701
+003: Acc-tr:  52.13, Acc-val:  54.96, L-tr: 1.3421, L-val: 1.2701
+Epoch 3 Finished.  Time per Epoch:  22.67 s 
+004: Acc-tr:  57.84, Acc-val:  58.23, L-tr: 1.1963, L-val: 1.1815
+004: Acc-tr:  57.84, Acc-val:  58.23, L-tr: 1.1963, L-val: 1.1815
+Epoch 4 Finished.  Time per Epoch:  22.71 s 
+005: Acc-tr:  61.10, Acc-val:  60.09, L-tr: 1.1018, L-val: 1.1223
+005: Acc-tr:  61.10, Acc-val:  60.09, L-tr: 1.1018, L-val: 1.1223
+Epoch 5 Finished.  Time per Epoch:  22.68 s 
+006: Acc-tr:  63.28, Acc-val:  62.42, L-tr: 1.0500, L-val: 1.0840
+006: Acc-tr:  63.28, Acc-val:  62.42, L-tr: 1.0500, L-val: 1.0840
+Epoch 6 Finished.  Time per Epoch:  22.63 s 
+007: Acc-tr:  65.23, Acc-val:  64.59, L-tr: 0.9915, L-val: 1.0200
+007: Acc-tr:  65.23, Acc-val:  64.59, L-tr: 0.9915, L-val: 1.0200
+Epoch 7 Finished.  Time per Epoch:  22.61 s 
+008: Acc-tr:  67.20, Acc-val:  62.63, L-tr: 0.9336, L-val: 1.0890
+008: Acc-tr:  67.20, Acc-val:  62.63, L-tr: 0.9336, L-val: 1.0890
+Epoch 8 Finished.  Time per Epoch:  22.60 s 
+009: Acc-tr:  68.33, Acc-val:  65.66, L-tr: 0.9031, L-val: 1.0038
+009: Acc-tr:  68.33, Acc-val:  65.66, L-tr: 0.9031, L-val: 1.0038
+Epoch 9 Finished.  Time per Epoch:  22.57 s 
+010: Acc-tr:  69.53, Acc-val:  66.67, L-tr: 0.8725, L-val: 0.9824
+010: Acc-tr:  69.53, Acc-val:  66.67, L-tr: 0.8725, L-val: 0.9824
+Epoch 10 Finished.  Time per Epoch:  22.58 s 
+011: Acc-tr:  70.75, Acc-val:  66.56, L-tr: 0.8374, L-val: 0.9994
+011: Acc-tr:  70.75, Acc-val:  66.56, L-tr: 0.8374, L-val: 0.9994
+Epoch 11 Finished.  Time per Epoch:  22.54 s 
+012: Acc-tr:  71.76, Acc-val:  68.16, L-tr: 0.8130, L-val: 0.9465
+012: Acc-tr:  71.76, Acc-val:  68.16, L-tr: 0.8130, L-val: 0.9465
+Epoch 12 Finished.  Time per Epoch:  22.50 s 
+013: Acc-tr:  72.76, Acc-val:  67.25, L-tr: 0.7794, L-val: 0.9616
+013: Acc-tr:  72.76, Acc-val:  67.25, L-tr: 0.7794, L-val: 0.9616
+Epoch 13 Finished.  Time per Epoch:  22.49 s 
+014: Acc-tr:  73.62, Acc-val:  68.97, L-tr: 0.7572, L-val: 0.9376
+014: Acc-tr:  73.62, Acc-val:  68.97, L-tr: 0.7572, L-val: 0.9376
+Epoch 14 Finished.  Time per Epoch:  22.48 s 
+015: Acc-tr:  74.23, Acc-val:  69.57, L-tr: 0.7357, L-val: 0.9439
+015: Acc-tr:  74.23, Acc-val:  69.57, L-tr: 0.7357, L-val: 0.9439
+Epoch 15 Finished.  Time per Epoch:  22.49 s 
+016: Acc-tr:  75.23, Acc-val:  69.84, L-tr: 0.7174, L-val: 0.9398
+016: Acc-tr:  75.23, Acc-val:  69.84, L-tr: 0.7174, L-val: 0.9398
+Epoch 16 Finished.  Time per Epoch:  22.48 s 
+017: Acc-tr:  76.10, Acc-val:  69.07, L-tr: 0.6865, L-val: 0.9494
+017: Acc-tr:  76.10, Acc-val:  69.07, L-tr: 0.6865, L-val: 0.9494
+Epoch 17 Finished.  Time per Epoch:  22.48 s 
+018: Acc-tr:  76.13, Acc-val:  69.59, L-tr: 0.6894, L-val: 0.9439
+018: Acc-tr:  76.13, Acc-val:  69.59, L-tr: 0.6894, L-val: 0.9439
+Epoch 18 Finished.  Time per Epoch:  22.49 s 
+019: Acc-tr:  77.07, Acc-val:  70.11, L-tr: 0.6632, L-val: 0.9449
+019: Acc-tr:  77.07, Acc-val:  70.11, L-tr: 0.6632, L-val: 0.9449
+Epoch 19 Finished.  Time per Epoch:  22.48 s 
+020: Acc-tr:  77.31, Acc-val:  69.67, L-tr: 0.6522, L-val: 0.9499
+020: Acc-tr:  77.31, Acc-val:  69.67, L-tr: 0.6522, L-val: 0.9499
+Epoch 20 Finished.  Time per Epoch:  22.46 s 
+021: Acc-tr:  77.61, Acc-val:  69.55, L-tr: 0.6457, L-val: 0.9431
+021: Acc-tr:  77.61, Acc-val:  69.55, L-tr: 0.6457, L-val: 0.9431
+Epoch 21 Finished.  Time per Epoch:  22.44 s 
+022: Acc-tr:  78.30, Acc-val:  70.40, L-tr: 0.6190, L-val: 0.9236
+022: Acc-tr:  78.30, Acc-val:  70.40, L-tr: 0.6190, L-val: 0.9236
+Epoch 22 Finished.  Time per Epoch:  22.44 s 
+023: Acc-tr:  78.62, Acc-val:  70.41, L-tr: 0.6157, L-val: 0.9355
+023: Acc-tr:  78.62, Acc-val:  70.41, L-tr: 0.6157, L-val: 0.9355
+Epoch 23 Finished.  Time per Epoch:  22.43 s 
+024: Acc-tr:  79.49, Acc-val:  69.47, L-tr: 0.5970, L-val: 0.9708
+024: Acc-tr:  79.49, Acc-val:  69.47, L-tr: 0.5970, L-val: 0.9708
+Epoch 24 Finished.  Time per Epoch:  22.42 s 
+025: Acc-tr:  79.51, Acc-val:  69.55, L-tr: 0.5917, L-val: 1.0110
+025: Acc-tr:  79.51, Acc-val:  69.55, L-tr: 0.5917, L-val: 1.0110
+Epoch 25 Finished.  Time per Epoch:  22.41 s 
+026: Acc-tr:  80.01, Acc-val:  70.30, L-tr: 0.5779, L-val: 1.0109
+026: Acc-tr:  80.01, Acc-val:  70.30, L-tr: 0.5779, L-val: 1.0109
+Epoch 26 Finished.  Time per Epoch:  22.40 s 
+027: Acc-tr:  80.05, Acc-val:  71.03, L-tr: 0.5819, L-val: 0.9537
+027: Acc-tr:  80.05, Acc-val:  71.03, L-tr: 0.5819, L-val: 0.9537
+Epoch 27 Finished.  Time per Epoch:  22.39 s 
+028: Acc-tr:  80.23, Acc-val:  71.33, L-tr: 0.5734, L-val: 0.9889
+028: Acc-tr:  80.23, Acc-val:  71.33, L-tr: 0.5734, L-val: 0.9889
+Epoch 28 Finished.  Time per Epoch:  22.38 s 
+029: Acc-tr:  81.10, Acc-val:  71.63, L-tr: 0.5496, L-val: 0.9730
+029: Acc-tr:  81.10, Acc-val:  71.63, L-tr: 0.5496, L-val: 0.9730
+Epoch 29 Finished.  Time per Epoch:  22.39 s 
+030: Acc-tr:  80.98, Acc-val:  70.55, L-tr: 0.5568, L-val: 1.0005
+030: Acc-tr:  80.98, Acc-val:  70.55, L-tr: 0.5568, L-val: 1.0005
+Epoch 30 Finished.  Time per Epoch:  22.41 s 
+031: Acc-tr:  81.30, Acc-val:  71.31, L-tr: 0.5451, L-val: 0.9614
+031: Acc-tr:  81.30, Acc-val:  71.31, L-tr: 0.5451, L-val: 0.9614
+Epoch 31 Finished.  Time per Epoch:  22.43 s 
+032: Acc-tr:  81.64, Acc-val:  71.38, L-tr: 0.5326, L-val: 0.9836
+032: Acc-tr:  81.64, Acc-val:  71.38, L-tr: 0.5326, L-val: 0.9836
+Epoch 32 Finished.  Time per Epoch:  22.43 s 
+033: Acc-tr:  81.63, Acc-val:  70.23, L-tr: 0.5318, L-val: 1.0199
+033: Acc-tr:  81.63, Acc-val:  70.23, L-tr: 0.5318, L-val: 1.0199
+Epoch 33 Finished.  Time per Epoch:  22.43 s 
+034: Acc-tr:  82.28, Acc-val:  70.33, L-tr: 0.5173, L-val: 1.0822
+034: Acc-tr:  82.28, Acc-val:  70.33, L-tr: 0.5173, L-val: 1.0822
+Epoch 34 Finished.  Time per Epoch:  22.42 s 
+035: Acc-tr:  82.16, Acc-val:  70.55, L-tr: 0.5207, L-val: 1.0046
+035: Acc-tr:  82.16, Acc-val:  70.55, L-tr: 0.5207, L-val: 1.0046
+Epoch 35 Finished.  Time per Epoch:  22.42 s 
+036: Acc-tr:  82.97, Acc-val:  71.84, L-tr: 0.4960, L-val: 0.9810
+036: Acc-tr:  82.97, Acc-val:  71.84, L-tr: 0.4960, L-val: 0.9810
+Epoch 36 Finished.  Time per Epoch:  22.41 s 
+037: Acc-tr:  82.68, Acc-val:  70.77, L-tr: 0.5045, L-val: 1.0663
+037: Acc-tr:  82.68, Acc-val:  70.77, L-tr: 0.5045, L-val: 1.0663
+Epoch 37 Finished.  Time per Epoch:  22.40 s 
+038: Acc-tr:  82.97, Acc-val:  71.32, L-tr: 0.4955, L-val: 1.0045
+038: Acc-tr:  82.97, Acc-val:  71.32, L-tr: 0.4955, L-val: 1.0045
+Epoch 38 Finished.  Time per Epoch:  22.39 s 
+039: Acc-tr:  82.90, Acc-val:  71.22, L-tr: 0.4985, L-val: 1.0408
+039: Acc-tr:  82.90, Acc-val:  71.22, L-tr: 0.4985, L-val: 1.0408
+Epoch 39 Finished.  Time per Epoch:  22.38 s 
+040: Acc-tr:  83.17, Acc-val:  71.00, L-tr: 0.4902, L-val: 1.0381
+040: Acc-tr:  83.17, Acc-val:  71.00, L-tr: 0.4902, L-val: 1.0381
+Epoch 40 Finished.  Time per Epoch:  22.37 s 
+041: Acc-tr:  83.02, Acc-val:  72.07, L-tr: 0.4975, L-val: 1.0037
+041: Acc-tr:  83.02, Acc-val:  72.07, L-tr: 0.4975, L-val: 1.0037
+Epoch 41 Finished.  Time per Epoch:  22.37 s 
+042: Acc-tr:  83.84, Acc-val:  71.92, L-tr: 0.4785, L-val: 1.0570
+042: Acc-tr:  83.84, Acc-val:  71.92, L-tr: 0.4785, L-val: 1.0570
+Epoch 42 Finished.  Time per Epoch:  22.37 s 
+043: Acc-tr:  83.22, Acc-val:  70.96, L-tr: 0.4954, L-val: 1.0282
+043: Acc-tr:  83.22, Acc-val:  70.96, L-tr: 0.4954, L-val: 1.0282
+Epoch 43 Finished.  Time per Epoch:  22.36 s 
+044: Acc-tr:  84.09, Acc-val:  72.18, L-tr: 0.4636, L-val: 0.9819
+044: Acc-tr:  84.09, Acc-val:  72.18, L-tr: 0.4636, L-val: 0.9819
+Epoch 44 Finished.  Time per Epoch:  22.36 s 
+045: Acc-tr:  83.93, Acc-val:  72.35, L-tr: 0.4727, L-val: 1.0205
+045: Acc-tr:  83.93, Acc-val:  72.35, L-tr: 0.4727, L-val: 1.0205
+Epoch 45 Finished.  Time per Epoch:  22.36 s 
+046: Acc-tr:  84.04, Acc-val:  71.72, L-tr: 0.4711, L-val: 1.0862
+046: Acc-tr:  84.04, Acc-val:  71.72, L-tr: 0.4711, L-val: 1.0862
+Epoch 46 Finished.  Time per Epoch:  22.36 s 
+047: Acc-tr:  83.91, Acc-val:  71.20, L-tr: 0.4687, L-val: 1.0474
+047: Acc-tr:  83.91, Acc-val:  71.20, L-tr: 0.4687, L-val: 1.0474
+Epoch 47 Finished.  Time per Epoch:  22.36 s 
+048: Acc-tr:  84.35, Acc-val:  72.38, L-tr: 0.4626, L-val: 1.0463
+048: Acc-tr:  84.35, Acc-val:  72.38, L-tr: 0.4626, L-val: 1.0463
+Epoch 48 Finished.  Time per Epoch:  22.36 s 
+049: Acc-tr:  84.62, Acc-val:  72.10, L-tr: 0.4532, L-val: 1.0631
+049: Acc-tr:  84.62, Acc-val:  72.10, L-tr: 0.4532, L-val: 1.0631
+Epoch 49 Finished.  Time per Epoch:  22.35 s 
+050: Acc-tr:  84.49, Acc-val:  71.36, L-tr: 0.4586, L-val: 1.1182
+050: Acc-tr:  84.49, Acc-val:  71.36, L-tr: 0.4586, L-val: 1.1182
+Epoch 50 Finished.  Time per Epoch:  22.34 s 
+051: Acc-tr:  84.39, Acc-val:  72.15, L-tr: 0.4609, L-val: 1.0194
+051: Acc-tr:  84.39, Acc-val:  72.15, L-tr: 0.4609, L-val: 1.0194
+Epoch 51 Finished.  Time per Epoch:  22.34 s 
+052: Acc-tr:  84.66, Acc-val:  71.97, L-tr: 0.4528, L-val: 1.0059
+052: Acc-tr:  84.66, Acc-val:  71.97, L-tr: 0.4528, L-val: 1.0059
+Epoch 52 Finished.  Time per Epoch:  22.34 s 
+053: Acc-tr:  85.39, Acc-val:  72.42, L-tr: 0.4357, L-val: 1.0594
+053: Acc-tr:  85.39, Acc-val:  72.42, L-tr: 0.4357, L-val: 1.0594
+Epoch 53 Finished.  Time per Epoch:  22.34 s 
+054: Acc-tr:  85.41, Acc-val:  72.03, L-tr: 0.4358, L-val: 1.0416
+054: Acc-tr:  85.41, Acc-val:  72.03, L-tr: 0.4358, L-val: 1.0416
+Epoch 54 Finished.  Time per Epoch:  22.33 s 
+055: Acc-tr:  85.22, Acc-val:  71.82, L-tr: 0.4382, L-val: 1.1136
+055: Acc-tr:  85.22, Acc-val:  71.82, L-tr: 0.4382, L-val: 1.1136
+Epoch 55 Finished.  Time per Epoch:  22.33 s 
+056: Acc-tr:  85.12, Acc-val:  72.58, L-tr: 0.4406, L-val: 1.0809
+056: Acc-tr:  85.12, Acc-val:  72.58, L-tr: 0.4406, L-val: 1.0809
+Epoch 56 Finished.  Time per Epoch:  22.33 s 
+057: Acc-tr:  84.96, Acc-val:  71.94, L-tr: 0.4411, L-val: 1.1015
+057: Acc-tr:  84.96, Acc-val:  71.94, L-tr: 0.4411, L-val: 1.1015
+Epoch 57 Finished.  Time per Epoch:  22.33 s 
+058: Acc-tr:  85.45, Acc-val:  71.21, L-tr: 0.4339, L-val: 1.1844
+058: Acc-tr:  85.45, Acc-val:  71.21, L-tr: 0.4339, L-val: 1.1844
+Epoch 58 Finished.  Time per Epoch:  22.32 s 
+059: Acc-tr:  85.31, Acc-val:  71.90, L-tr: 0.4320, L-val: 1.0911
+059: Acc-tr:  85.31, Acc-val:  71.90, L-tr: 0.4320, L-val: 1.0911
+Epoch 59 Finished.  Time per Epoch:  22.33 s 
+060: Acc-tr:  85.39, Acc-val:  72.52, L-tr: 0.4294, L-val: 1.0522
+060: Acc-tr:  85.39, Acc-val:  72.52, L-tr: 0.4294, L-val: 1.0522
+Epoch 60 Finished.  Time per Epoch:  22.33 s 
+061: Acc-tr:  85.39, Acc-val:  71.74, L-tr: 0.4274, L-val: 1.0963
+061: Acc-tr:  85.39, Acc-val:  71.74, L-tr: 0.4274, L-val: 1.0963
+Epoch 61 Finished.  Time per Epoch:  22.32 s 
+062: Acc-tr:  85.75, Acc-val:  72.37, L-tr: 0.4255, L-val: 1.1436
+062: Acc-tr:  85.75, Acc-val:  72.37, L-tr: 0.4255, L-val: 1.1436
+Epoch 62 Finished.  Time per Epoch:  22.33 s 
+063: Acc-tr:  85.53, Acc-val:  72.65, L-tr: 0.4244, L-val: 1.0358
+063: Acc-tr:  85.53, Acc-val:  72.65, L-tr: 0.4244, L-val: 1.0358
+Epoch 63 Finished.  Time per Epoch:  22.32 s 
+064: Acc-tr:  86.04, Acc-val:  71.43, L-tr: 0.4137, L-val: 1.1267
+064: Acc-tr:  86.04, Acc-val:  71.43, L-tr: 0.4137, L-val: 1.1267
+Epoch 64 Finished.  Time per Epoch:  22.31 s 
+065: Acc-tr:  86.25, Acc-val:  72.39, L-tr: 0.4113, L-val: 1.0609
+065: Acc-tr:  86.25, Acc-val:  72.39, L-tr: 0.4113, L-val: 1.0609
+Epoch 65 Finished.  Time per Epoch:  22.31 s 
+066: Acc-tr:  86.18, Acc-val:  73.37, L-tr: 0.4143, L-val: 1.0553
+066: Acc-tr:  86.18, Acc-val:  73.37, L-tr: 0.4143, L-val: 1.0553
+Epoch 66 Finished.  Time per Epoch:  22.31 s 
+067: Acc-tr:  86.05, Acc-val:  71.85, L-tr: 0.4131, L-val: 1.0861
+067: Acc-tr:  86.05, Acc-val:  71.85, L-tr: 0.4131, L-val: 1.0861
+Epoch 67 Finished.  Time per Epoch:  22.31 s 
+068: Acc-tr:  85.91, Acc-val:  73.49, L-tr: 0.4144, L-val: 1.0318
+068: Acc-tr:  85.91, Acc-val:  73.49, L-tr: 0.4144, L-val: 1.0318
+Epoch 68 Finished.  Time per Epoch:  22.30 s 
+069: Acc-tr:  86.49, Acc-val:  72.47, L-tr: 0.4007, L-val: 1.1108
+069: Acc-tr:  86.49, Acc-val:  72.47, L-tr: 0.4007, L-val: 1.1108
+Epoch 69 Finished.  Time per Epoch:  22.30 s 
+070: Acc-tr:  86.21, Acc-val:  72.42, L-tr: 0.4113, L-val: 1.1455
+070: Acc-tr:  86.21, Acc-val:  72.42, L-tr: 0.4113, L-val: 1.1455
+Epoch 70 Finished.  Time per Epoch:  22.30 s 
+071: Acc-tr:  86.36, Acc-val:  72.71, L-tr: 0.4044, L-val: 1.0801
+071: Acc-tr:  86.36, Acc-val:  72.71, L-tr: 0.4044, L-val: 1.0801
+Epoch 71 Finished.  Time per Epoch:  22.30 s 
+072: Acc-tr:  86.73, Acc-val:  73.70, L-tr: 0.3951, L-val: 1.0572
+072: Acc-tr:  86.73, Acc-val:  73.70, L-tr: 0.3951, L-val: 1.0572
+Epoch 72 Finished.  Time per Epoch:  22.30 s 
+073: Acc-tr:  86.64, Acc-val:  72.47, L-tr: 0.3953, L-val: 1.1262
+073: Acc-tr:  86.64, Acc-val:  72.47, L-tr: 0.3953, L-val: 1.1262
+Epoch 73 Finished.  Time per Epoch:  22.30 s 
+074: Acc-tr:  86.19, Acc-val:  72.53, L-tr: 0.4114, L-val: 1.1232
+074: Acc-tr:  86.19, Acc-val:  72.53, L-tr: 0.4114, L-val: 1.1232
+Epoch 74 Finished.  Time per Epoch:  22.30 s 
+075: Acc-tr:  86.60, Acc-val:  72.80, L-tr: 0.3983, L-val: 1.0287
+075: Acc-tr:  86.60, Acc-val:  72.80, L-tr: 0.3983, L-val: 1.0287
+Epoch 75 Finished.  Time per Epoch:  22.30 s 
+076: Acc-tr:  86.97, Acc-val:  72.57, L-tr: 0.3882, L-val: 1.1207
+076: Acc-tr:  86.97, Acc-val:  72.57, L-tr: 0.3882, L-val: 1.1207
+Epoch 76 Finished.  Time per Epoch:  22.30 s 
+077: Acc-tr:  86.40, Acc-val:  72.59, L-tr: 0.4021, L-val: 1.0921
+077: Acc-tr:  86.40, Acc-val:  72.59, L-tr: 0.4021, L-val: 1.0921
+Epoch 77 Finished.  Time per Epoch:  22.31 s 
+078: Acc-tr:  86.63, Acc-val:  72.19, L-tr: 0.3913, L-val: 1.1165
+078: Acc-tr:  86.63, Acc-val:  72.19, L-tr: 0.3913, L-val: 1.1165
+Epoch 78 Finished.  Time per Epoch:  22.30 s 
+079: Acc-tr:  86.60, Acc-val:  72.21, L-tr: 0.3988, L-val: 1.1087
+079: Acc-tr:  86.60, Acc-val:  72.21, L-tr: 0.3988, L-val: 1.1087
+Epoch 79 Finished.  Time per Epoch:  22.30 s 
+080: Acc-tr:  87.40, Acc-val:  72.79, L-tr: 0.3802, L-val: 1.0543
+080: Acc-tr:  87.40, Acc-val:  72.79, L-tr: 0.3802, L-val: 1.0543
+Epoch 80 Finished.  Time per Epoch:  22.30 s 
+081: Acc-tr:  86.68, Acc-val:  73.26, L-tr: 0.3920, L-val: 1.1224
+081: Acc-tr:  86.68, Acc-val:  73.26, L-tr: 0.3920, L-val: 1.1224
+Epoch 81 Finished.  Time per Epoch:  22.30 s 
+082: Acc-tr:  86.56, Acc-val:  73.41, L-tr: 0.3989, L-val: 1.0853
+082: Acc-tr:  86.56, Acc-val:  73.41, L-tr: 0.3989, L-val: 1.0853
+Epoch 82 Finished.  Time per Epoch:  22.30 s 
+083: Acc-tr:  86.86, Acc-val:  73.24, L-tr: 0.3920, L-val: 1.0529
+083: Acc-tr:  86.86, Acc-val:  73.24, L-tr: 0.3920, L-val: 1.0529
+Epoch 83 Finished.  Time per Epoch:  22.30 s 
+084: Acc-tr:  86.69, Acc-val:  73.01, L-tr: 0.3961, L-val: 1.1152
+084: Acc-tr:  86.69, Acc-val:  73.01, L-tr: 0.3961, L-val: 1.1152
+Epoch 84 Finished.  Time per Epoch:  22.30 s 
+085: Acc-tr:  86.74, Acc-val:  71.59, L-tr: 0.3968, L-val: 1.1468
+085: Acc-tr:  86.74, Acc-val:  71.59, L-tr: 0.3968, L-val: 1.1468
+Epoch 85 Finished.  Time per Epoch:  22.30 s 
+086: Acc-tr:  87.18, Acc-val:  72.15, L-tr: 0.3878, L-val: 1.0971
+086: Acc-tr:  87.18, Acc-val:  72.15, L-tr: 0.3878, L-val: 1.0971
+Epoch 86 Finished.  Time per Epoch:  22.30 s 
+087: Acc-tr:  87.60, Acc-val:  73.39, L-tr: 0.3728, L-val: 1.1597
+087: Acc-tr:  87.60, Acc-val:  73.39, L-tr: 0.3728, L-val: 1.1597
+Epoch 87 Finished.  Time per Epoch:  22.31 s 
+088: Acc-tr:  86.93, Acc-val:  71.93, L-tr: 0.3864, L-val: 1.1353
+088: Acc-tr:  86.93, Acc-val:  71.93, L-tr: 0.3864, L-val: 1.1353
+Epoch 88 Finished.  Time per Epoch:  22.31 s 
+089: Acc-tr:  86.97, Acc-val:  73.85, L-tr: 0.3884, L-val: 1.0787
+089: Acc-tr:  86.97, Acc-val:  73.85, L-tr: 0.3884, L-val: 1.0787
+Epoch 89 Finished.  Time per Epoch:  22.31 s 
+090: Acc-tr:  87.29, Acc-val:  72.82, L-tr: 0.3772, L-val: 1.0843
+090: Acc-tr:  87.29, Acc-val:  72.82, L-tr: 0.3772, L-val: 1.0843
+Epoch 90 Finished.  Time per Epoch:  22.31 s 
+091: Acc-tr:  87.66, Acc-val:  73.16, L-tr: 0.3706, L-val: 1.0896
+091: Acc-tr:  87.66, Acc-val:  73.16, L-tr: 0.3706, L-val: 1.0896
+Epoch 91 Finished.  Time per Epoch:  22.31 s 
+092: Acc-tr:  87.15, Acc-val:  72.89, L-tr: 0.3825, L-val: 1.1135
+092: Acc-tr:  87.15, Acc-val:  72.89, L-tr: 0.3825, L-val: 1.1135
+Epoch 92 Finished.  Time per Epoch:  22.31 s 
+093: Acc-tr:  87.99, Acc-val:  73.78, L-tr: 0.3639, L-val: 1.0695
+093: Acc-tr:  87.99, Acc-val:  73.78, L-tr: 0.3639, L-val: 1.0695
+Epoch 93 Finished.  Time per Epoch:  22.30 s 
+094: Acc-tr:  87.93, Acc-val:  72.98, L-tr: 0.3602, L-val: 1.1204
+094: Acc-tr:  87.93, Acc-val:  72.98, L-tr: 0.3602, L-val: 1.1204
+Epoch 94 Finished.  Time per Epoch:  22.30 s 
+095: Acc-tr:  87.45, Acc-val:  72.75, L-tr: 0.3710, L-val: 1.1351
+095: Acc-tr:  87.45, Acc-val:  72.75, L-tr: 0.3710, L-val: 1.1351
+Epoch 95 Finished.  Time per Epoch:  22.31 s 
+096: Acc-tr:  87.55, Acc-val:  73.53, L-tr: 0.3691, L-val: 1.0857
+096: Acc-tr:  87.55, Acc-val:  73.53, L-tr: 0.3691, L-val: 1.0857
+Epoch 96 Finished.  Time per Epoch:  22.31 s 
+097: Acc-tr:  87.72, Acc-val:  74.27, L-tr: 0.3611, L-val: 1.0634
+097: Acc-tr:  87.72, Acc-val:  74.27, L-tr: 0.3611, L-val: 1.0634
+Epoch 97 Finished.  Time per Epoch:  22.31 s 
+098: Acc-tr:  87.80, Acc-val:  73.09, L-tr: 0.3587, L-val: 1.1185
+098: Acc-tr:  87.80, Acc-val:  73.09, L-tr: 0.3587, L-val: 1.1185
+Epoch 98 Finished.  Time per Epoch:  22.30 s 
+099: Acc-tr:  87.53, Acc-val:  73.72, L-tr: 0.3670, L-val: 1.0535
+099: Acc-tr:  87.53, Acc-val:  73.72, L-tr: 0.3670, L-val: 1.0535
+Epoch 99 Finished.  Time per Epoch:  22.30 s 
+100: Acc-tr:  87.57, Acc-val:  73.58, L-tr: 0.3665, L-val: 1.1029
+100: Acc-tr:  87.57, Acc-val:  73.58, L-tr: 0.3665, L-val: 1.1029
+Epoch 100 Finished.  Time per Epoch:  22.30 s 
+101: Acc-tr:  87.64, Acc-val:  74.01, L-tr: 0.3660, L-val: 1.1328
+101: Acc-tr:  87.64, Acc-val:  74.01, L-tr: 0.3660, L-val: 1.1328
+Epoch 101 Finished.  Time per Epoch:  22.31 s 
+102: Acc-tr:  88.11, Acc-val:  74.29, L-tr: 0.3568, L-val: 1.0853
+102: Acc-tr:  88.11, Acc-val:  74.29, L-tr: 0.3568, L-val: 1.0853
+Epoch 102 Finished.  Time per Epoch:  22.31 s 
+103: Acc-tr:  88.05, Acc-val:  73.59, L-tr: 0.3566, L-val: 1.0464
+103: Acc-tr:  88.05, Acc-val:  73.59, L-tr: 0.3566, L-val: 1.0464
+Epoch 103 Finished.  Time per Epoch:  22.31 s 
+104: Acc-tr:  88.16, Acc-val:  73.61, L-tr: 0.3527, L-val: 1.0626
+104: Acc-tr:  88.16, Acc-val:  73.61, L-tr: 0.3527, L-val: 1.0626
+Epoch 104 Finished.  Time per Epoch:  22.31 s 
+105: Acc-tr:  87.91, Acc-val:  72.72, L-tr: 0.3627, L-val: 1.1027
+105: Acc-tr:  87.91, Acc-val:  72.72, L-tr: 0.3627, L-val: 1.1027
+Epoch 105 Finished.  Time per Epoch:  22.32 s 
+106: Acc-tr:  88.36, Acc-val:  72.79, L-tr: 0.3461, L-val: 1.1153
+106: Acc-tr:  88.36, Acc-val:  72.79, L-tr: 0.3461, L-val: 1.1153
+Epoch 106 Finished.  Time per Epoch:  22.32 s 
+107: Acc-tr:  88.27, Acc-val:  73.30, L-tr: 0.3514, L-val: 1.1151
+107: Acc-tr:  88.27, Acc-val:  73.30, L-tr: 0.3514, L-val: 1.1151
+Epoch 107 Finished.  Time per Epoch:  22.32 s 
+108: Acc-tr:  88.20, Acc-val:  74.45, L-tr: 0.3471, L-val: 1.0680
+108: Acc-tr:  88.20, Acc-val:  74.45, L-tr: 0.3471, L-val: 1.0680
+Epoch 108 Finished.  Time per Epoch:  22.32 s 
+109: Acc-tr:  88.09, Acc-val:  73.77, L-tr: 0.3556, L-val: 1.0400
+109: Acc-tr:  88.09, Acc-val:  73.77, L-tr: 0.3556, L-val: 1.0400
+Epoch 109 Finished.  Time per Epoch:  22.32 s 
+110: Acc-tr:  87.95, Acc-val:  73.77, L-tr: 0.3595, L-val: 1.1041
+110: Acc-tr:  87.95, Acc-val:  73.77, L-tr: 0.3595, L-val: 1.1041
+Epoch 110 Finished.  Time per Epoch:  22.32 s 
+111: Acc-tr:  88.37, Acc-val:  73.36, L-tr: 0.3449, L-val: 1.0842
+111: Acc-tr:  88.37, Acc-val:  73.36, L-tr: 0.3449, L-val: 1.0842
+Epoch 111 Finished.  Time per Epoch:  22.32 s 
+112: Acc-tr:  88.52, Acc-val:  73.12, L-tr: 0.3444, L-val: 1.0422
+112: Acc-tr:  88.52, Acc-val:  73.12, L-tr: 0.3444, L-val: 1.0422
+Epoch 112 Finished.  Time per Epoch:  22.32 s 
+113: Acc-tr:  88.24, Acc-val:  73.20, L-tr: 0.3484, L-val: 1.1659
+113: Acc-tr:  88.24, Acc-val:  73.20, L-tr: 0.3484, L-val: 1.1659
+Epoch 113 Finished.  Time per Epoch:  22.32 s 
+114: Acc-tr:  87.89, Acc-val:  73.33, L-tr: 0.3593, L-val: 1.0881
+114: Acc-tr:  87.89, Acc-val:  73.33, L-tr: 0.3593, L-val: 1.0881
+Epoch 114 Finished.  Time per Epoch:  22.32 s 
+115: Acc-tr:  88.34, Acc-val:  73.35, L-tr: 0.3480, L-val: 1.1335
+115: Acc-tr:  88.34, Acc-val:  73.35, L-tr: 0.3480, L-val: 1.1335
+Epoch 115 Finished.  Time per Epoch:  22.33 s 
+116: Acc-tr:  87.87, Acc-val:  73.16, L-tr: 0.3615, L-val: 1.1025
+116: Acc-tr:  87.87, Acc-val:  73.16, L-tr: 0.3615, L-val: 1.1025
+Epoch 116 Finished.  Time per Epoch:  22.32 s 
+117: Acc-tr:  88.41, Acc-val:  74.37, L-tr: 0.3415, L-val: 1.0242
+117: Acc-tr:  88.41, Acc-val:  74.37, L-tr: 0.3415, L-val: 1.0242
+Epoch 117 Finished.  Time per Epoch:  22.33 s 
+118: Acc-tr:  88.97, Acc-val:  74.61, L-tr: 0.3274, L-val: 1.1177
+118: Acc-tr:  88.97, Acc-val:  74.61, L-tr: 0.3274, L-val: 1.1177
+Epoch 118 Finished.  Time per Epoch:  22.33 s 
+119: Acc-tr:  88.65, Acc-val:  73.55, L-tr: 0.3358, L-val: 1.1102
+119: Acc-tr:  88.65, Acc-val:  73.55, L-tr: 0.3358, L-val: 1.1102
+Epoch 119 Finished.  Time per Epoch:  22.33 s 
+120: Acc-tr:  88.39, Acc-val:  72.84, L-tr: 0.3455, L-val: 1.1379
+120: Acc-tr:  88.39, Acc-val:  72.84, L-tr: 0.3455, L-val: 1.1379
+Epoch 120 Finished.  Time per Epoch:  22.33 s 
+121: Acc-tr:  88.25, Acc-val:  74.02, L-tr: 0.3516, L-val: 1.0742
+121: Acc-tr:  88.25, Acc-val:  74.02, L-tr: 0.3516, L-val: 1.0742
+Epoch 121 Finished.  Time per Epoch:  22.33 s 
+122: Acc-tr:  88.77, Acc-val:  74.12, L-tr: 0.3338, L-val: 1.1215
+122: Acc-tr:  88.77, Acc-val:  74.12, L-tr: 0.3338, L-val: 1.1215
+Epoch 122 Finished.  Time per Epoch:  22.33 s 
+123: Acc-tr:  88.42, Acc-val:  73.84, L-tr: 0.3449, L-val: 1.0965
+123: Acc-tr:  88.42, Acc-val:  73.84, L-tr: 0.3449, L-val: 1.0965
+Epoch 123 Finished.  Time per Epoch:  22.34 s 
+124: Acc-tr:  88.35, Acc-val:  74.03, L-tr: 0.3471, L-val: 1.0696
+124: Acc-tr:  88.35, Acc-val:  74.03, L-tr: 0.3471, L-val: 1.0696
+Epoch 124 Finished.  Time per Epoch:  22.34 s 
+125: Acc-tr:  88.47, Acc-val:  73.43, L-tr: 0.3474, L-val: 1.0722
+125: Acc-tr:  88.47, Acc-val:  73.43, L-tr: 0.3474, L-val: 1.0722
+Epoch 125 Finished.  Time per Epoch:  22.34 s 
+126: Acc-tr:  88.70, Acc-val:  73.64, L-tr: 0.3354, L-val: 1.0227
+126: Acc-tr:  88.70, Acc-val:  73.64, L-tr: 0.3354, L-val: 1.0227
+Epoch 126 Finished.  Time per Epoch:  22.34 s 
+127: Acc-tr:  88.74, Acc-val:  73.34, L-tr: 0.3389, L-val: 1.0667
+127: Acc-tr:  88.74, Acc-val:  73.34, L-tr: 0.3389, L-val: 1.0667
+Epoch 127 Finished.  Time per Epoch:  22.34 s 
+128: Acc-tr:  89.11, Acc-val:  74.41, L-tr: 0.3229, L-val: 1.0934
+128: Acc-tr:  89.11, Acc-val:  74.41, L-tr: 0.3229, L-val: 1.0934
+Epoch 128 Finished.  Time per Epoch:  22.34 s 
+129: Acc-tr:  88.85, Acc-val:  72.71, L-tr: 0.3345, L-val: 1.1832
+129: Acc-tr:  88.85, Acc-val:  72.71, L-tr: 0.3345, L-val: 1.1832
+Epoch 129 Finished.  Time per Epoch:  22.35 s 
+130: Acc-tr:  88.91, Acc-val:  73.65, L-tr: 0.3285, L-val: 1.0651
+130: Acc-tr:  88.91, Acc-val:  73.65, L-tr: 0.3285, L-val: 1.0651
+Epoch 130 Finished.  Time per Epoch:  22.35 s 
+131: Acc-tr:  89.32, Acc-val:  73.60, L-tr: 0.3169, L-val: 1.1021
+131: Acc-tr:  89.32, Acc-val:  73.60, L-tr: 0.3169, L-val: 1.1021
+Epoch 131 Finished.  Time per Epoch:  22.35 s 
+132: Acc-tr:  88.91, Acc-val:  74.15, L-tr: 0.3319, L-val: 1.1230
+132: Acc-tr:  88.91, Acc-val:  74.15, L-tr: 0.3319, L-val: 1.1230
+Epoch 132 Finished.  Time per Epoch:  22.35 s 
+133: Acc-tr:  88.85, Acc-val:  74.20, L-tr: 0.3299, L-val: 1.1209
+133: Acc-tr:  88.85, Acc-val:  74.20, L-tr: 0.3299, L-val: 1.1209
+Epoch 133 Finished.  Time per Epoch:  22.35 s 
+134: Acc-tr:  88.89, Acc-val:  73.99, L-tr: 0.3316, L-val: 1.0908
+134: Acc-tr:  88.89, Acc-val:  73.99, L-tr: 0.3316, L-val: 1.0908
+Epoch 134 Finished.  Time per Epoch:  22.35 s 
+135: Acc-tr:  88.78, Acc-val:  73.92, L-tr: 0.3381, L-val: 1.2001
+135: Acc-tr:  88.78, Acc-val:  73.92, L-tr: 0.3381, L-val: 1.2001
+Epoch 135 Finished.  Time per Epoch:  22.35 s 
+136: Acc-tr:  57.67, Acc-val:  10.00, L-tr: 1.1216, L-val: 2.3043
+136: Acc-tr:  57.67, Acc-val:  10.00, L-tr: 1.1216, L-val: 2.3043
+Epoch 136 Finished.  Time per Epoch:  22.36 s 
+137: Acc-tr:   9.77, Acc-val:  10.00, L-tr: 2.3044, L-val: 2.3042
+137: Acc-tr:   9.77, Acc-val:  10.00, L-tr: 2.3044, L-val: 2.3042
+Epoch 137 Finished.  Time per Epoch:  22.36 s 
+138: Acc-tr:   9.81, Acc-val:  10.00, L-tr: 2.3034, L-val: 2.3028
+138: Acc-tr:   9.81, Acc-val:  10.00, L-tr: 2.3034, L-val: 2.3028
+Epoch 138 Finished.  Time per Epoch:  22.36 s 
+139: Acc-tr:  10.01, Acc-val:  10.00, L-tr: 2.3030, L-val: 2.3032
+139: Acc-tr:  10.01, Acc-val:  10.00, L-tr: 2.3030, L-val: 2.3032
+Epoch 139 Finished.  Time per Epoch:  22.36 s 
+140: Acc-tr:   9.69, Acc-val:  10.00, L-tr: 2.3030, L-val: 2.3029
+140: Acc-tr:   9.69, Acc-val:  10.00, L-tr: 2.3030, L-val: 2.3029
+Epoch 140 Finished.  Time per Epoch:  22.36 s 
+141: Acc-tr:  10.31, Acc-val:  10.00, L-tr: 2.3030, L-val: 2.3032
+141: Acc-tr:  10.31, Acc-val:  10.00, L-tr: 2.3030, L-val: 2.3032
+Epoch 141 Finished.  Time per Epoch:  22.36 s 
+142: Acc-tr:  10.00, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3030
+142: Acc-tr:  10.00, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3030
+Epoch 142 Finished.  Time per Epoch:  22.36 s 
+143: Acc-tr:   9.93, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3028
+143: Acc-tr:   9.93, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3028
+Epoch 143 Finished.  Time per Epoch:  22.37 s 
+144: Acc-tr:   9.85, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3032
+144: Acc-tr:   9.85, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3032
+Epoch 144 Finished.  Time per Epoch:  22.37 s 
+145: Acc-tr:   9.85, Acc-val:  10.00, L-tr: 2.3032, L-val: 2.3027
+145: Acc-tr:   9.85, Acc-val:  10.00, L-tr: 2.3032, L-val: 2.3027
+Epoch 145 Finished.  Time per Epoch:  22.37 s 
+146: Acc-tr:   9.74, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3027
+146: Acc-tr:   9.74, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3027
+Epoch 146 Finished.  Time per Epoch:  22.37 s 
+147: Acc-tr:   9.75, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3029
+147: Acc-tr:   9.75, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3029
+Epoch 147 Finished.  Time per Epoch:  22.37 s 
+148: Acc-tr:   9.89, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3033
+148: Acc-tr:   9.89, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3033
+Epoch 148 Finished.  Time per Epoch:  22.37 s 
+149: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3029
+149: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3031, L-val: 2.3029
+Epoch 149 Finished.  Time per Epoch:  22.38 s 
+150: Acc-tr:   9.92, Acc-val:  10.00, L-tr: 2.3028, L-val: 2.3026
+150: Acc-tr:   9.92, Acc-val:  10.00, L-tr: 2.3028, L-val: 2.3026
+Epoch 150 Finished.  Time per Epoch:  22.38 s 
+151: Acc-tr:   9.90, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+151: Acc-tr:   9.90, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 151 Finished.  Time per Epoch:  22.38 s 
+152: Acc-tr:   9.80, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+152: Acc-tr:   9.80, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 152 Finished.  Time per Epoch:  22.38 s 
+153: Acc-tr:   9.68, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+153: Acc-tr:   9.68, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 153 Finished.  Time per Epoch:  22.38 s 
+154: Acc-tr:   9.69, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+154: Acc-tr:   9.69, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 154 Finished.  Time per Epoch:  22.38 s 
+155: Acc-tr:   9.63, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+155: Acc-tr:   9.63, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 155 Finished.  Time per Epoch:  22.38 s 
+156: Acc-tr:   9.65, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+156: Acc-tr:   9.65, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 156 Finished.  Time per Epoch:  22.39 s 
+157: Acc-tr:   9.68, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+157: Acc-tr:   9.68, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 157 Finished.  Time per Epoch:  22.39 s 
+158: Acc-tr:   9.85, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+158: Acc-tr:   9.85, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 158 Finished.  Time per Epoch:  22.39 s 
+159: Acc-tr:   9.96, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+159: Acc-tr:   9.96, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 159 Finished.  Time per Epoch:  22.40 s 
+160: Acc-tr:   9.65, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+160: Acc-tr:   9.65, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 160 Finished.  Time per Epoch:  22.40 s 
+161: Acc-tr:   9.86, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+161: Acc-tr:   9.86, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 161 Finished.  Time per Epoch:  22.40 s 
+162: Acc-tr:   9.89, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+162: Acc-tr:   9.89, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 162 Finished.  Time per Epoch:  22.40 s 
+163: Acc-tr:   9.62, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+163: Acc-tr:   9.62, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 163 Finished.  Time per Epoch:  22.40 s 
+164: Acc-tr:   9.91, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+164: Acc-tr:   9.91, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 164 Finished.  Time per Epoch:  22.41 s 
+165: Acc-tr:   9.80, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+165: Acc-tr:   9.80, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 165 Finished.  Time per Epoch:  22.41 s 
+166: Acc-tr:   9.91, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+166: Acc-tr:   9.91, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 166 Finished.  Time per Epoch:  22.41 s 
+167: Acc-tr:   9.69, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+167: Acc-tr:   9.69, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 167 Finished.  Time per Epoch:  22.41 s 
+168: Acc-tr:   9.90, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+168: Acc-tr:   9.90, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 168 Finished.  Time per Epoch:  22.41 s 
+169: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+169: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 169 Finished.  Time per Epoch:  22.41 s 
+170: Acc-tr:   9.84, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+170: Acc-tr:   9.84, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 170 Finished.  Time per Epoch:  22.41 s 
+171: Acc-tr:   9.61, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+171: Acc-tr:   9.61, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 171 Finished.  Time per Epoch:  22.41 s 
+172: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+172: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 172 Finished.  Time per Epoch:  22.41 s 
+173: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+173: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 173 Finished.  Time per Epoch:  22.41 s 
+174: Acc-tr:   9.90, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+174: Acc-tr:   9.90, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 174 Finished.  Time per Epoch:  22.41 s 
+175: Acc-tr:   9.86, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+175: Acc-tr:   9.86, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 175 Finished.  Time per Epoch:  22.41 s 
+176: Acc-tr:   9.88, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+176: Acc-tr:   9.88, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 176 Finished.  Time per Epoch:  22.41 s 
+177: Acc-tr:   9.72, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+177: Acc-tr:   9.72, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 177 Finished.  Time per Epoch:  22.41 s 
+178: Acc-tr:   9.67, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+178: Acc-tr:   9.67, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 178 Finished.  Time per Epoch:  22.41 s 
+179: Acc-tr:   9.67, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+179: Acc-tr:   9.67, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 179 Finished.  Time per Epoch:  22.41 s 
+180: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+180: Acc-tr:   9.83, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 180 Finished.  Time per Epoch:  22.41 s 
+181: Acc-tr:   9.78, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+181: Acc-tr:   9.78, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 181 Finished.  Time per Epoch:  22.41 s 
+182: Acc-tr:   9.94, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+182: Acc-tr:   9.94, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 182 Finished.  Time per Epoch:  22.42 s 
+183: Acc-tr:   9.81, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+183: Acc-tr:   9.81, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 183 Finished.  Time per Epoch:  22.43 s 
+184: Acc-tr:   9.72, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+184: Acc-tr:   9.72, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 184 Finished.  Time per Epoch:  22.43 s 
+185: Acc-tr:   9.68, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+185: Acc-tr:   9.68, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 185 Finished.  Time per Epoch:  22.43 s 
+186: Acc-tr:   9.82, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+186: Acc-tr:   9.82, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 186 Finished.  Time per Epoch:  22.43 s 
+187: Acc-tr:   9.70, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+187: Acc-tr:   9.70, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 187 Finished.  Time per Epoch:  22.43 s 
+188: Acc-tr:   9.68, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+188: Acc-tr:   9.68, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 188 Finished.  Time per Epoch:  22.43 s 
+189: Acc-tr:   9.87, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+189: Acc-tr:   9.87, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 189 Finished.  Time per Epoch:  22.43 s 
+190: Acc-tr:   9.91, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+190: Acc-tr:   9.91, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 190 Finished.  Time per Epoch:  22.43 s 
+191: Acc-tr:   9.79, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+191: Acc-tr:   9.79, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 191 Finished.  Time per Epoch:  22.43 s 
+192: Acc-tr:   9.85, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+192: Acc-tr:   9.85, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 192 Finished.  Time per Epoch:  22.43 s 
+193: Acc-tr:   9.77, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+193: Acc-tr:   9.77, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 193 Finished.  Time per Epoch:  22.43 s 
+194: Acc-tr:   9.78, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+194: Acc-tr:   9.78, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 194 Finished.  Time per Epoch:  22.43 s 
+195: Acc-tr:   9.84, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+195: Acc-tr:   9.84, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 195 Finished.  Time per Epoch:  22.43 s 
+196: Acc-tr:   9.76, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+196: Acc-tr:   9.76, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 196 Finished.  Time per Epoch:  22.43 s 
+197: Acc-tr:   9.71, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+197: Acc-tr:   9.71, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 197 Finished.  Time per Epoch:  22.43 s 
+198: Acc-tr:   9.55, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+198: Acc-tr:   9.55, Acc-val:  10.00, L-tr: 2.3027, L-val: 2.3026
+Epoch 198 Finished.  Time per Epoch:  22.43 s 
+199: Acc-tr:   9.88, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+199: Acc-tr:   9.88, Acc-val:  10.00, L-tr: 2.3026, L-val: 2.3026
+Epoch 199 Finished.  Time per Epoch:  22.43 s 
