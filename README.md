@@ -7,7 +7,7 @@ The notebooks named after the three models used in this project contain detailed
 
 Log files of the experiments conducted are stored in the folder **runs** as well as **logfiles**. More specifically, folder **runs** contains ...., and folder **logfiles** contains text files for the logs of each data augmentation experiment mentioned above. **Logfiles** also includes the code for processing the log files as well as each model's accuracy and loss curve. 
 
-## Citation 
+## Citations  
 [1] C. Zhang, S. Bengio, M. Hardt, B. Recht, and O. Vinyals, “Understanding deep learning requires rethinking generalization,” arXiv.org, 26-Feb-2017. [Online]. Available: https://arxiv.org/abs/1611.03530. [Accessed: 29-Apr-2021].
 
 [2] Pluskid, “pluskid/fitting-random-labels,” GitHub. [Online]. Available: https://github.com/pluskid/fitting-random-labels. [Accessed: 29-Apr-2021].
